@@ -22,19 +22,19 @@ OTTO Google Ads delivers automation across the primary stages of paid search man
 - **Audience Building**: Automatic creation of retargeting lists based on user-defined time windows (15, 30, or 60 days) and specific behaviors such as ad clicks without conversion
 - **Direct Deployment**: One-click or automated launch into connected Google Ads accounts with full user oversight
 
-Users can [explore the platform](https://searchatlas.com/?fpr=vip-vmai) to access these capabilities within the OTTO SEO subscription.
+Users can [explore the platform](https://searchatlas.com/?fpr=vip-vmai) to access these capabilities within the OTTO SEO subscription and integrate with tools such as the [site auditor](/search-atlas/site-auditor) for technical alignment and [site explorer](/search-atlas/site-explorer) for competitive intelligence.
 
 ## Deployment Protocol
 
 Implementation follows a streamlined four-step process. First, connect the Google Ads account and website domain within the Search Atlas dashboard. Next, define primary conversion goals so the system can align campaign structure accordingly. OTTO then scans the site, generates ad groups, keywords, and copy, and presents everything for review with previews available. Finally, approve and launch campaigns directly into Google Ads, where continuous AI optimization begins immediately.
 
-For retargeting, users specify audience criteria and time windows. The system automatically builds the audiences, writes performance-oriented ad copy, and activates campaigns. Google Tag Manager installation enables accurate tracking of visitor behavior for audience construction. The entire process requires minimal PPC expertise and supports scaling across multiple businesses, products, or client accounts.
+For retargeting, users specify audience criteria and time windows. The system automatically builds the audiences, writes performance-oriented ad copy, and activates campaigns. Google Tag Manager installation enables accurate tracking of visitor behavior for audience construction. The entire process requires minimal PPC expertise and supports scaling across multiple businesses, products, or client accounts. Integration with the [on-page audit tool](/search-atlas/on-page-audit-tool) further strengthens landing page alignment.
 
 ## Strategic Advantages
 
 OTTO Google Ads reduces campaign launch time from hours or days to minutes while maintaining professional-grade structure and alignment with ROAS objectives. The integrated retargeting functionality recaptures lost traffic at lower costs, compounding overall return on advertising spend. Organizations benefit from consistent negative keyword hygiene, dynamic creative refresh, and data-driven refinements that adapt without constant manual intervention.
 
-The tool is particularly valuable for agencies managing client campaigns, ecommerce operations, in-house marketing teams, and freelancers seeking efficient paid search execution. By combining automation with transparent controls and performance monitoring, OTTO Google Ads delivers speed, scalability, and measurable efficiency gains in competitive advertising environments.
+The tool is particularly valuable for agencies managing client campaigns, ecommerce operations, in-house marketing teams, and freelancers seeking efficient paid search execution. By combining automation with transparent controls and performance monitoring, OTTO Google Ads delivers speed, scalability, and measurable efficiency gains in competitive advertising environments. It works synergistically with [OTTO SEO AI](/search-atlas/otto-seo-ai) for unified organic and paid optimization.
 
 [Get started here](https://searchatlas.com/?fpr=vip-vmai) and deploy AI-powered Google Ads campaigns that are structured for performance from day one.
 
