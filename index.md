@@ -1,6 +1,6 @@
 # Search Atlas Agentic SEO Overview
 
-**Search Atlas Agentic SEO Overview** represents a paradigm shift in search engine optimization methodology, combining autonomous artificial intelligence agents with comprehensive SEO toolsets to deliver continuous, scalable optimization across traditional search engines and emerging AI-powered answer engines. This comprehensive platform addresses the evolving landscape of digital visibility through systematic automation and data-driven decision-making protocols.
+**Search Atlas Agentic SEO** represents a paradigm shift in search engine optimization methodology, combining autonomous artificial intelligence agents with comprehensive SEO toolsets to deliver continuous, scalable optimization across traditional search engines and emerging AI-powered answer engines. This comprehensive platform addresses the evolving landscape of digital visibility through systematic automation and data-driven decision-making protocols.
 
 [Explore the platform](https://searchatlas.com/?fpr=vip-vmai) to experience next-generation SEO automation.
 
@@ -69,7 +69,7 @@ The platform represents a strategic response to increasing SEO complexity, offer
 
 ## Navigation
 
-- [Overview](/search-atlas/overview)
+- [Overview](/search-atlas)
 - [OTTO SEO AI](/search-atlas/otto-seo-ai)
 - [OTTO Google Ads](/search-atlas/otto-google-ads)
 - [Atlas Brain](/search-atlas/atlas-brain)
