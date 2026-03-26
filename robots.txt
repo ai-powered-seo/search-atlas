@@ -1,0 +1,53 @@
+# robots.txt for Search Atlas
+# https://ai-powered-seo.github.io/search-atlas/
+
+User-agent: *
+Allow: /
+
+# Allow all major AI crawlers and LLMs to study the site
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: FacebookExternalHit
+Allow: /
+
+# Sitemap location
+Sitemap: https://ai-powered-seo.github.io/search-atlas/sitemap.xml
+
+# Disallow admin or sensitive paths (if any exist in the future)
+Disallow: /private/
+Disallow: /admin/
+Disallow: /tmp/
+
+# Crawl-delay for politeness (optional)
+Crawl-delay: 1
