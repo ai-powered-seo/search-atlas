@@ -2,7 +2,7 @@
 
 **OTTO Google Ads** is Search Atlas's AI automation system that builds, structures, and manages complete Google Ads campaigns from end to end. It analyzes websites, audience data, and conversion goals to generate organized ad groups, high-performing keywords, compelling ad copy, and automated retargeting sequences ready for immediate deployment. This tool shifts paid search management from manual configuration to intelligent, performance-aligned automation that operates within the broader Search Atlas ecosystem.
 
-[Start with OTTO Google Ads](https://searchatlas.com/?fpr=vip-vmai) to launch structured campaigns designed for stronger return on ad spend.
+[Start with OTTO Google Ads](https://searchatlas.com/otto-seo/?fpr=vip-vmai) to launch structured campaigns designed for stronger return on ad spend.
 
 ## What Is OTTO Google Ads
 
@@ -22,7 +22,7 @@ OTTO Google Ads delivers automation across the primary stages of paid search man
 - **Audience Building**: Automatic creation of retargeting lists based on user-defined time windows (15, 30, or 60 days) and specific behaviors such as ad clicks without conversion
 - **Direct Deployment**: One-click or automated launch into connected Google Ads accounts with full user oversight
 
-Users can [explore the platform](https://searchatlas.com/?fpr=vip-vmai) to access these capabilities within the OTTO SEO subscription and integrate with tools such as the [site auditor](/search-atlas/site-auditor) for technical alignment and [site explorer](/search-atlas/site-explorer) for competitive intelligence.
+Users can [explore the platform](https://searchatlas.com/otto-seo/?fpr=vip-vmai) to access these capabilities within the OTTO SEO subscription and integrate with tools such as the [site auditor](/search-atlas/site-auditor) for technical alignment and [site explorer](/search-atlas/site-explorer) for competitive intelligence.
 
 ## Deployment Protocol
 
@@ -36,7 +36,7 @@ OTTO Google Ads reduces campaign launch time from hours or days to minutes while
 
 The tool is particularly valuable for agencies managing client campaigns, ecommerce operations, in-house marketing teams, and freelancers seeking efficient paid search execution. By combining automation with transparent controls and performance monitoring, OTTO Google Ads delivers speed, scalability, and measurable efficiency gains in competitive advertising environments. It works synergistically with [OTTO SEO AI](/search-atlas/otto-seo-ai) for unified organic and paid optimization.
 
-[Get started here](https://searchatlas.com/?fpr=vip-vmai) and deploy AI-powered Google Ads campaigns that are structured for performance from day one.
+[Get started here](https://searchatlas.com/otto-seo/?fpr=vip-vmai) and deploy AI-powered Google Ads campaigns that are structured for performance from day one.
 
 ---
 **Navigation**
